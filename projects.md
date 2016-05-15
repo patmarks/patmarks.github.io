@@ -1,3 +1,8 @@
+---
+layout: default
+title: Code
+---
+
 # Code
 
 ### 2010 Census Data
