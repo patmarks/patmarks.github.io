@@ -11,6 +11,7 @@ title: Home
 
 ![Rhode Island](images/RI small.png)
 
+The state of Rhode Island and Providence Plantations.
 
 ### Miscellaneous Jupyter Notebooks
 
