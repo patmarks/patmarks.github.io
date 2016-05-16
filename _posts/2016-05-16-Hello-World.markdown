@@ -6,8 +6,15 @@ categories: main
 ---
 This is my blog. I want something reminiscent of 90s homepages. Something like [Stallman.org](http://stallman.org) or [timecube.](timecube.com) Something weird, and hopefully a little entertaining.
 
--> ![Rena](https://raw.githubusercontent.com/patmarks/patmarks.github.io/master/images/gif2.gif) <-
+{:.center}
+![Rena](https://raw.githubusercontent.com/patmarks/patmarks.github.io/master/images/gif2.gif)
+This is an image
 
+Hi!
+
+.center {
+  text-align: center;
+}
 
 
 ### Task 1:
