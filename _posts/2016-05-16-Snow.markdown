@@ -6,7 +6,7 @@ categories: main
 ---
 Snow is pretty.
 
-![flake1](images/snow/focus stacked.jpg){:width="400px"} 
+![flake1](images/snow/focus stacked.jpg){:width="400px"} \\
 ![flake2](images/snow/flake close.jpg){:width="400px"} \\
 ![frozen rain](images/snow/freezing rain.png){:width="400px"}
 
