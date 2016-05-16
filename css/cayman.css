@@ -80,18 +80,18 @@ a {
       font-size: 1.75rem; } }
 
 .project-tagline {
-  margin-bottom: 2rem;
+  margin-bottom: .1rem;
   font-weight: normal;
   opacity: 0.7; }
   @media screen and (min-width: 64em) {
     .project-tagline {
-      font-size: 1.25rem; } }
+      font-size: 0.75rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .project-tagline {
-      font-size: 1.15rem; } }
+      font-size: .5rem; } }
   @media screen and (max-width: 42em) {
     .project-tagline {
-      font-size: 1rem; } }
+      font-size: .25rem; } }
 
 .main-content {
   word-wrap: break-word; }
