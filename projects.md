@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<div class="main-content">
 # Code
 
 ### 2010 Census Data
@@ -26,3 +26,4 @@ The state of Rhode Island and Providence Plantations.
 ### A Dice Game
 [Threes](http://nbviewer.ipython.org/github/patmarks/Ipython-Notebooks/blob/master/dice/Threes.ipynb) is a dice game involving 5 dice, and a perfect score is ⚂⚂⚂⚂⚂. This notebook is a brief look at the statistics of the game.
 
+</div>
