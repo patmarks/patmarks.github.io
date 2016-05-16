@@ -7,7 +7,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.0;
-  background-color: rgba(9, 6, 6, 0.3);
+  background-color: rgba(0,0,0, 1);
   color: #000; }
 
 a {
@@ -96,7 +96,7 @@ a {
 .main-content {
   word-wrap: break-word;}
   .main-content :first-child {
-    background-color: #000; 
+    background-color: rgba(9, 6, 6, 1); 
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
