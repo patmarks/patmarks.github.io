@@ -6,9 +6,9 @@ categories: main
 ---
 Snow is pretty.
 
-![flake1](../images/snow/focus stacked.jpg){:width="400px"} \\
-![flake2](../images/snow/flake close.jpg){:width="400px"} \\
-![frozen rain](../images/snow/freezing rain.png){:width="400px"}
+![flake1](http://patmarks.github.io/images/snow/focus stacked.jpg){:width="400px"} \\
+![flake2](http://patmarks.github.io/images/snow/flake close.jpg){:width="400px"} \\
+![frozen rain](http://patmarks.github.io/images/snow/freezing rain.png){:width="400px"}
 {: style="color:gray; font-size: 60%; text-align: center;"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nAUrJJhbEIU" frameborder="0" allowfullscreen></iframe>
