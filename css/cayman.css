@@ -94,9 +94,9 @@ a {
       font-size: .25rem; } }
 
 .main-content {
-  word-wrap: break-word;
-  background-color: #000; }
+  word-wrap: break-word;}
   .main-content :first-child {
+    background-color: #000; 
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
