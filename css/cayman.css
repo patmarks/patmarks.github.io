@@ -96,7 +96,7 @@ a {
 .main-content {
   word-wrap: break-word;}
   .main-content :first-child {
-    background-color: #afa; 
+    background-color: #faf; 
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
@@ -120,7 +120,7 @@ a {
   .main-content h4,
   .main-content h5,
   .main-content h6 {
-    margin-top: 2rem;
+    margin-top: .2rem;
     margin-bottom: .25rem;
     font-weight: bold;
     color: #006100; }
