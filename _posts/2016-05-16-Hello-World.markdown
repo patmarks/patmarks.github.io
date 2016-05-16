@@ -11,5 +11,8 @@ A [Wain](https://en.wikipedia.org/wiki/Louis_Wain) Cat
 {: style="color:gray; font-size: 60%; text-align: center;"}
 
 
-### Task 1:
-Port the posts from miscellanearium.wordpress.com.
+##### What I need to do:
+
+* Port the posts from miscellanearium.wordpress.com.
+* Upload the Waincat generator
+* Blog very hard
