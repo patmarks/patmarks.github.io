@@ -11,5 +11,6 @@ Snow is pretty.
 ![frozen rain](images/snow/freezing rain.png){:width="400px"}
 {: style="color:gray; font-size: 60%; text-align: center;"}
 
-<iframe src="https://www.youtube.com/embed/nAUrJJhbEIU" frameborder="0" allowfullscreen></iframe>{: style="color:gray; font-size: 60%; text-align: center;"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAUrJJhbEIU" frameborder="0" allowfullscreen></iframe>
+{: style="color:gray; font-size: 60%; text-align: center;"}
 
