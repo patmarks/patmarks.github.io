@@ -6,8 +6,7 @@ categories: main
 ---
 This is my blog. I want something reminiscent of 90s homepages. Something like [Stallman.org](http://stallman.org) or [timecube.](timecube.com) Something weird, and hopefully a little entertaining.
 
-![Rena](https://raw.githubusercontent.com/patmarks/patmarks.github.io/master/images/gif2.gif)
-{: style="color:gray; font-size: 60%; text-align: center;"}
+![Rena](https://raw.githubusercontent.com/patmarks/patmarks.github.io/master/images/gif2.gif) \\
 A [Wain](https://en.wikipedia.org/wiki/Louis_Wain) Cat
 {: style="color:gray; font-size: 60%; text-align: center;"}
 
