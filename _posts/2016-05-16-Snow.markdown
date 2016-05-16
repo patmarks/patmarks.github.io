@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Snow"
+date:   2016-05-16 17:50:00
+categories: main
+---
+Snow is pretty.
+
+![flake1](images/focus stacked.jpg) ![images/flake2](flake close.jpg) \\
+![frozen rain](images/freezing rain.png) \\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAUrJJhbEIU" frameborder="0" allowfullscreen></iframe>
+{: style="color:gray; font-size: 60%; text-align: center;"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAUrJJhbEIU" frameborder="0" allowfullscreen></iframe>
