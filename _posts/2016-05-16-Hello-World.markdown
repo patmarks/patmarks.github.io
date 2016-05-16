@@ -11,7 +11,7 @@ This is my blog. I want something reminiscent of 90s homepages. Something like [
 This is an image
 
 Hi!
-
+{:/.center}
 .center {
   text-align: center;
 }
