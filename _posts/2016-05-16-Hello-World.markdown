@@ -4,9 +4,11 @@ title:  "Hello World!"
 date:   2016-05-16 17:50:00
 categories: main
 ---
-I've decided to make this github site my digital home. The goal is to create a 90s-chic website. Something like [Stallman.org](http://stallman.org) or [timecube.](timecube.com)
+This is my blog. I want something reminiscent of 90s homepages. Something like [Stallman.org](http://stallman.org) or [timecube.](timecube.com) Something weird, and hopefully a little entertaining.
 
-![Rena](https://raw.githubusercontent.com/patmarks/patmarks.github.io/master/images/gif2.gif)
+<center>![Rena](https://raw.githubusercontent.com/patmarks/patmarks.github.io/master/images/gif2.gif)</center>
+
+
 
 ### Task 1:
 Port the posts from miscellanearium.wordpress.com.
