@@ -100,6 +100,7 @@ a {
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
+    background-color: #00f; 
       max-width: 64rem;
       padding: 2rem 6rem;
       margin: 0 auto;
