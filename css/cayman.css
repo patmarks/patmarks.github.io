@@ -80,7 +80,7 @@ a {
       font-size: 1.75rem; } }
 
 .project-tagline {
-  margin-bottom: .1rem;
+  margin-bottom: .1rem; 
   font-weight: normal;
   opacity: 0.7; }
   @media screen and (min-width: 64em) {
@@ -96,7 +96,7 @@ a {
 .main-content {
   word-wrap: break-word;}
   .main-content :first-child {
-    background-color: #fef; 
+
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
