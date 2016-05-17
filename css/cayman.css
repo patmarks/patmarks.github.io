@@ -120,8 +120,8 @@ a {
   .main-content h4,
   .main-content h5,
   .main-content h6 {
-    margin-top: .2rem;
-    margin-bottom: .25rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
     font-weight: bold;
     color: #006100; }
   .main-content p {
