@@ -50,12 +50,7 @@ a {
       .btn + .btn {
         margin-top: 1rem;
         margin-left: 0; } }
-.post-title{
-  text-align: center;
-}
-.post-date{
-  text-align: center;
-}
+
 .page-header {
   color: #fff;
   text-align: center;
