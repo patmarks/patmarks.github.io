@@ -17,6 +17,7 @@ a {
     text-decoration: none; }
 
 iframe {
+    padding-bottom: 56.25%;
     margin: 0 auto;
     display:block;
     text-align: center
