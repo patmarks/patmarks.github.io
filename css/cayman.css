@@ -50,7 +50,9 @@ a {
       .btn + .btn {
         margin-top: 1rem;
         margin-left: 0; } }
-
+.post-title{
+  text-align: center;
+}
 .page-header {
   color: #fff;
   text-align: center;
@@ -100,19 +102,19 @@ a {
     margin-top: 0; }
   @media screen and (min-width: 64em) {
     .main-content {
-    background-color: #fdd; 
+      background-color: #fdd; 
       max-width: 64rem;
       padding: 2rem 6rem;
       margin: 0 auto;
       font-size: 1.1rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .main-content {
-    background-color: #fdd; 
+      background-color: #fdd; 
       padding: 2rem 4rem;
       font-size: 1.1rem; } }
   @media screen and (max-width: 42em) {
     .main-content {
-    background-color: #fdd; 
+      background-color: #fdd; 
       padding: 2rem 1rem;
       font-size: 1rem; } }
   .main-content img {
