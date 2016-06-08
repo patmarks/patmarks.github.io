@@ -7,7 +7,7 @@ categories: main
 
 ![](/images/hops/flower/use/hops close.jpg)
 The flowers are the crown jewels of hops. When mature, they look like soft green pine cones dangling from the bines. They are real flowers, though they’re also called cones, strobiles, or inflorescences (though technically, that’s only a cluster). Hops plants are dioecious, meaning plants are either male or female. Only the female cones are used in making beer, because they’re larger and contain chemicals like lupulone and humulone, which add flavorand help preserve beer.
-
+ 
 ![](/images/hops/flower/use/intro.jpg)
 Mature Flowers
 
