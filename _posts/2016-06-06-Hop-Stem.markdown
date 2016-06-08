@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Hops Stems"
+date:   2016-06-06 2:00:00
+categories: main
+---
+
+![](/images/hops/hops/20140825_184453.jpg)
+
+This year [last year], I grew hops for the first time. Hops are the vine-like plants that give beer the majority of its bitterness and floral flavours. There are a number of cultivars of hops with different characteristics, and I got the cascade variety. Cascade has the citrus flavour that’s popular in many west coast pale ales (eg. Stone IPA or Sierra Nevada pale ale).  There’s a wealth of information on how to grow and harvest hops, but I didn’t see too much content about their anatomy.
+
+Hops have long, climbing stems that wrap around a string or trellis to reach heights up to 30 feet. Every year, numerous stems sprout from the root ball. They could number in the hundreds, but a hops farmer trims them back to under 10. After sprouting, they stretch out, searching for something on which to climb. They grow vigorously upwards until midway through the season, when they start sending out lateral branches. It’s these lateral stems where the vast majority of flowers are produced.
+
+In the wild, they can climb up trees, to get better light and spread pollen via the wind. Cultivated hops don’t need to spread pollen, but they still need to be in the air to produce flowers. The flower clusters have some weight, and can be battered by winds. So the stem needs to be tough. It also needs to transport water and nutrients up the great heights.  This post looks at two adaptations of the stem, to help climb and transport water.
+
+In the picture on the right, hops looks pretty viny. However, they’re not vines. Vines have tendrils which extend from the stem, to grab hold of structures to climb on. In the picture below, you can see a grapevine tendril grabbing onto a little twig.  The vine itself doesn’t wrap around its supports. However, with bines, the entire stem needs to wrap around its support.
+
+![](/images/hops/stem/bristle macro.jpg)
+Bristles on a hops bine
+
+![](/images/hops/stem/bristle.jpg)
+Bristles on a developing hops bine (20x)
+
+[A grapevine tendril clinging to a twig](/images/hops/stem/tendril.jpg)
+
+Hops bines are able to grip with the aid of bristles on the stem. The bristles are modified epidermal cells, and look like tiny rose prickles, which are also epidermal outgrowths*. In mature hops the bristles can scrape or irritate skin if you’re not careful. They aren’t vicious, but the hooked shape is probably no surprise to anyone that’s felt the stems.
+
+The bristles help the bines grip, and climb tens of feet into the air. The stem also needs to transport water. Lots of water. A well-established hops plant supposedly is able to grow 1 foot a day during the peak of the season. I took some pictures of the cross-sections of an immature and mature stems. The first thing that struck me is that they’re hexagonal. I don’t know how common that is in the plant world, but it looks pretty near. Many plants in the mint family (Lamiaceae) have square stems. I’d be interested to see other hexagonal stems.
+young stem
+
+![](/images/hops/stem/young stem.jpg)
+Young stem cross-section. 20x
+
+Because they need the ability to grow almost a foot a day (at peak), they need a lot of water. If leaves need a lot of water, then the stem needs vascular elements to move water up and nutrients down. The immature cross-section was taken from a 4 inch bine. The mature cross-section was taken near the bottom of a 10 foot bine.  You can see how the mature bine needs has much thicker vessels to transport more water.
+mature stem
+
+![](/images/hops/stem/mature stem.jpg)
+Cross-section of mature bine
+
+*Roses do not have thorns, which only grow from the base of a leaf or branch (at the axillary bud). Thorns are modified leaves. But Roses do have prickles, which grow directly from the epidermis of the stem. Technically, no rose has a thorn. Bristles are similar to prickles, which you [can see](/images/hops/stem/prickle.jpg).

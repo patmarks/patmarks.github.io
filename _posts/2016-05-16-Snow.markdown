@@ -4,10 +4,10 @@ title:  "Snow"
 date:   2016-05-16 17:50:00
 categories: main
 ---
-Snow is pretty.
+Snow is pretty. Last year, Here's some pictures taken with a chilled microscope and a Samsung phone.
 
-![flake1]({{ site.url }}/images/snow/focus stacked.jpg){:width="400px"} \\
 ![flake2]({{ site.url }}/images/snow/flake close.jpg){:width="400px"} \\
+![flake1]({{ site.url }}/images/snow/focus stacked.jpg){:width="400px"} \\
 ![frozen rain]({{ site.url }}/images/snow/freezing rain.png){:width="400px"}
 {: style="color:gray; font-size: 60%; text-align: center;"}
 
