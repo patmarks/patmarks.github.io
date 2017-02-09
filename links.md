@@ -16,6 +16,10 @@ Assorted Links
 * [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hph.html)
 * [Appropedia](http://www.appropedia.org/)
 * [OpenWetWare](http://openwetware.org/wiki/Main_Page)
+* [New England plant ID](https://gobotany.newenglandwild.org/)
+* [Native American Ethnobotany database](http://plants.usda.gov/core/profile?symbol=OPHU)
+* [NIH 3D models](http://3dprint.nih.gov/)
+* [Biodiversity Heritage Library](http://biodivlib.wikispaces.com/About)
 
 #### Blogs/Podcasts
 
@@ -35,6 +39,7 @@ Assorted Links
 * [Anne Churchland](http://churchlandlab.labsites.cshl.edu/)
 * [Albert Folch](http://albertfolch.wix.com/folchlabintro)
 
+
 ### Rhode Island
 * [EcoRI](http://ecori.org)
 
@@ -44,6 +49,8 @@ Assorted Links
 * [Joost](http://www.joostrekveld.net/?p=1126)
 * [Gene Ray](http://timecube.com)
 * [TempleOS](http://templeos.org)
+* [Terry Tao](https://terrytao.wordpress.com/)
+* [Ellie Irons] (http://ellieirons.com/)
 
 
 ### Philosophy
